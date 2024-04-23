@@ -135,7 +135,7 @@
 
 <img src="https://lh7-us.googleusercontent.com/FHoK6J2HjKsknYFhLMNfsttJFYJA29uKBMSrLCl3gWB_uTOCG1giJ7TKmLr-FmzEOhtZimdtQ2LO5To4KkJVWJ6ylGItD0j1nKqIFJsMhHJx9utyDkBct42X_c3YrtNOloOTh9T8hLmqavPRkPmZLVv-8Q=s2048" alt="img" style="zoom: 50%;" />
 
-<img src="assets/image-20240423182817182.png" alt="image-20240423182817182" style="zoom: 33%;" />
+<img src="assets/image-20240423182817182.png" alt="image-20240423182817182" style="zoom: 18%;" />
 
 ### 進階討論：使用籌碼數據
 
