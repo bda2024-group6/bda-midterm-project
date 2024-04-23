@@ -1,18 +1,7 @@
-## 程式實作說明
+## codespace
 
-### 資料標記
-
-### 資料前處理
-
-- 使用中研院 CKIP Tagger 進行斷詞、詞性標註，保留文章中的普通名詞、動詞與形容詞
-- 建立 1-gram 至 3-gram 的 tf-idf 矩陣，並且使用 chi-square 分數選取前 n 名的特徵
-  - n = 50, 100, 200, 300, 400, 500, 600, 700
-
-### 模型訓練
-
-- 使用 Naive Bayes, SVM, Random Forest, XGBoost 與上述三者的 stacked model
-- 先用 GridSearchCV 對訓練資料尋找最佳的模型超參數，並進行 5-fold cross validation
-- 對不同的天數、特徵數、模型進行準確度比較
-
-### 移動回測
+- `main.ipynb` 是模型訓練的主要程式碼，包含斷詞、建構向量空間、特徵提取、模型訓練、移動回測
+- `labeling.ipynb` 是當初資料標記時所使用的程式碼
+- `filter.ipynb` 是當初篩資料時所使用的程式碼
+- `chip.ipynb` 是當初取得籌碼數據所使用的程式碼
 
