@@ -1,4 +1,4 @@
-#                                用新聞與社群媒體數據預測航運股漲跌                        
+# 用新聞與社群媒體數據預測航運股漲跌                        
 
 > **112-2 大數據與商業分析 期中專案**
 > 資管三 邱秉辰
@@ -133,9 +133,9 @@
 - 每天票數相同時不出手
 - 總出手率：96.08% / 總準確率：58.75%
 
-<img src="https://lh7-us.googleusercontent.com/FHoK6J2HjKsknYFhLMNfsttJFYJA29uKBMSrLCl3gWB_uTOCG1giJ7TKmLr-FmzEOhtZimdtQ2LO5To4KkJVWJ6ylGItD0j1nKqIFJsMhHJx9utyDkBct42X_c3YrtNOloOTh9T8hLmqavPRkPmZLVv-8Q=s2048" alt="img" style="zoom: 50%;" />
+<img src="https://lh7-us.googleusercontent.com/FHoK6J2HjKsknYFhLMNfsttJFYJA29uKBMSrLCl3gWB_uTOCG1giJ7TKmLr-FmzEOhtZimdtQ2LO5To4KkJVWJ6ylGItD0j1nKqIFJsMhHJx9utyDkBct42X_c3YrtNOloOTh9T8hLmqavPRkPmZLVv-8Q=s2048" alt="img" style="zoom: 20%;" />
 
-<img src="assets/image-20240423182817182.png" alt="image-20240423182817182" style="zoom: 18%;" />
+<img src="assets/image-20240423182817182.png" alt="image-20240423182817182" style="zoom: 15%;" />
 
 ### 進階討論：使用籌碼數據
 
@@ -146,7 +146,7 @@
 
 #### 模型訓練結果之比較
 
-<img src="assets/image-20240423183032240.png" alt="image-20240423183032240" style="zoom:33%;" />
+<img src="assets/image-20240423183032240.png" alt="image-20240423183032240" style="zoom:15%;" />
 
 #### 回測結果之比較
 
